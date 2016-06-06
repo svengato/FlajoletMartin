@@ -19,7 +19,7 @@ main.cpp
 Test main that approximately counts the number of unique words in a specified text file.
 
 constitution-words-only.txt
-Text of the United States Constitution, with punctuation removed. This contains 1161 unique words.
+Text of the United States Constitution, with punctuation removed. This contains 925 unique words.
 
 declaration-words-only.txt
-Text of the Declaration of Independence, with punctuation removed. This contains 639 unique words.
+Text of the Declaration of Independence, with punctuation removed. This contains 585 unique words.
