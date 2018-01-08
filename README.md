@@ -1,5 +1,5 @@
 # FlajoletMartin
-Implements the Flajolet-Martin approximate counting algorithm,
+Implements the Flajolet-Martin algorithm for approximately counting unique items in a data stream,
 <br>&bull; Flajolet and Martin, _Probabilistic Counting Algorithms for Data Base Applications_,
 Journal of Computer and System Sciences **31**, 182-209 (1985).
 
@@ -8,7 +8,7 @@ Boost
 <br>http://www.boost.org
 
 FarmHash
-<br>https://code.google.com/p/farmhash/
+<br>https://github.com/google/farmhash
 
 #### Other files (for tests)
 main.cpp
