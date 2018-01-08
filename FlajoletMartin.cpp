@@ -1,6 +1,7 @@
 // =============================================================================
 
-// Implements the Flajolet-Martin approximate counting algorithm,
+// Implements the Flajolet-Martin algorithm for approximately counting unique
+// items in a data stream,
 // Flajolet and Martin, "Probabilistic Counting Algorithms for Data Base Applications",
 // Journal of Computer and System Sciences 31, 182-209 (1985).
 
